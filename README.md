@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rjn01&column=7&theme=onedark" />
+</div>
+
 <!--
 **rjn01/rjn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
