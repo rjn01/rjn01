@@ -2,16 +2,7 @@
 
 <h3>my not so wondeful stats</h3>
 
-```json
-{
-  "joined": "1 years ago",
-  "repos": "41",
-  "repos_contributed_to": "8",
-  "commits": "173",
-  "issues": "2",
-  "pull_requests": "12"
-}
-```
+<img align="right" alt="Priyansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyansh18&show_icons=true&hide_border=true" />
 
 <br><br>
 
