@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+<h3>my not so wondeful stats</h3>
+
+```json
+{
+  "joined": "{{ ACCOUNT_AGE }} years ago",
+  "repos": "{{ REPOSITORIES }}",
+  "repos_contributed_to": "{{ REPOSITORIES_CONTRIBUTED_TO }}",
+  "commits": "{{ COMMITS }}",
+  "stars": "{{ STARS }}",
+  "issues": "{{ ISSUES }}",
+  "pull_requests": "{{ PULL_REQUESTS }}"
+}
+```
+
+<br><br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rjn01&column=7&theme=onedark" />
