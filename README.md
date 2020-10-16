@@ -10,17 +10,15 @@
     <img align="left" alt="Rajan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 
-<br />
-<br />
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh18" alt="rjn01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjn01" alt="rjn01" /> </p>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="center" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-<br /> 
+<br> 
 
-
-<h3>my not so wondeful stats</h3>
+<h3>My not so wondeful stats</h3>
 
 <img align="left" alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rjn01&show_icons=true&hide_border=true" />
 
