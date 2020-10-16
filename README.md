@@ -2,7 +2,7 @@
 
 <h3>my not so wondeful stats</h3>
 
-<img align="center" alt="Priyansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyansh18&show_icons=true&hide_border=true" />
+<img align="center" alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rjn01&show_icons=true&hide_border=true" />
 
 <br><br>
 
