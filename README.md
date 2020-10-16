@@ -18,12 +18,11 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 <br /> 
-<img align="right" alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rjn01&show_icons=true&hide_border=true" />
 
 
 <h3>my not so wondeful stats</h3>
 
-<img align="center" alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rjn01&show_icons=true&hide_border=true" />
+<img align="left" alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rjn01&show_icons=true&hide_border=true" />
 
 <br><br>
 
