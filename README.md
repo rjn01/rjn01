@@ -9,13 +9,13 @@
   <a href="https://www.instagram.com/rajan_puri20/">
     <img align="left" alt="Rajan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjn01" alt="rjn01" /> </p>
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjn01" alt="rjn01" /> </p>
-
+<p align="center">
 <img align="center" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
-
+</p>
 <br> 
 
 <h3>My not so wondeful stats</h3>
