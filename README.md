@@ -1,4 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rajan</h1>
+
+  <a href="https://twitter.com/RJN_01">
+    <img align="left" alt="Rajan Puri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/-rajan-puri/">
+    <img align="left" alt="Rajan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/rajan_puri20/">
+    <img align="left" alt="Rajan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+
+<br />
+<br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh18" alt="rjn01" /> </p>
+
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+
+<br /> 
+<img align="right" alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rjn01&show_icons=true&hide_border=true" />
+
 
 <h3>my not so wondeful stats</h3>
 
