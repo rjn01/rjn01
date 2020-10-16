@@ -4,13 +4,12 @@
 
 ```json
 {
-  "joined": "{{ ACCOUNT_AGE }} years ago",
-  "repos": "{{ REPOSITORIES }}",
-  "repos_contributed_to": "{{ REPOSITORIES_CONTRIBUTED_TO }}",
-  "commits": "{{ COMMITS }}",
-  "stars": "{{ STARS }}",
-  "issues": "{{ ISSUES }}",
-  "pull_requests": "{{ PULL_REQUESTS }}"
+  "joined": "1 years ago",
+  "repos": "41",
+  "repos_contributed_to": "8",
+  "commits": "173",
+  "issues": "2",
+  "pull_requests": "12"
 }
 ```
 
