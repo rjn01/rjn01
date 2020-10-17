@@ -14,19 +14,17 @@
 <br>
 
 <p align="center">
-<img align="center" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="center" height="250" width="400" alt="GIF" src="https://github.com/rjn01/rjn01/blob/master/code.gif?raw=true" />
 </p>
 <br> 
 
 <h3>My not so wondeful stats</h3>
 
-<img align="left" alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rjn01&show_icons=true&hide_border=true" />
+<img align="left" alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rjn01&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
 
-<br><br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rjn01&column=7&theme=onedark" />
-</div>
+<!-- wi*quL3fcV --><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjn01&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+
 
 <!--
 **rjn01/rjn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
