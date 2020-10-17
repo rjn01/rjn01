@@ -18,20 +18,30 @@
 </p>
 <br> 
 
-<h3>My github activity</h3>
+<h3>Talking about Personal Stuffs</h3>
+
+- 🌱 I’m currently learning *Deep Learning* on **Coursera**
+- 👨‍💻 All of my projects are available at **[PROJECTS](https://github.com/rjn01/rjn01)**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning**
+- 📫 How to reach me:📬 **rajanpuri.07@gmail.com**
+- ⚡ You can see my **[Resume](https://rjn01.github.io/)**
+
+<br> 
+
+<h3>My Github Activity</h3>
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#72](https://github.com/gatsbyjs/gatsby-hi/pull/72) in [gatsbyjs/gatsby-hi](https://github.com/gatsbyjs/gatsby-hi)
 2. 💪 Opened PR [#5931](https://github.com/hasura/graphql-engine/pull/5931) in [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
 3. 💪 Opened PR [#1291](https://github.com/TesseractCoding/NeoAlgo/pull/1291) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
 4. 🗣 Commented on [1119](https://github.com/TesseractCoding/NeoAlgo/issues/1119) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-5. 💪 Opened PR [#2181](https://github.com/litmuschaos/litmus/pull/2181) in [](https://github.com/litmuschaos/litmus)
+5. 💪 Opened PR [#2181](https://github.com/litmuschaos/litmus/pull/2181) in [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
 <!--END_SECTION:activity-->
 
 
 <h3>My not so wondeful stats</h3>
 
-<img align="left" alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rjn01&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<img align="left" width = "50%" alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rjn01&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="right" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 <img src="https://github-profile-trophy.vercel.app/?username=rjn01&column=7&theme=onedark" />
 
 
