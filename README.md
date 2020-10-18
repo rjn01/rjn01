@@ -9,6 +9,10 @@
   <a href="https://www.instagram.com/rajan_puri20/">
     <img align="left" alt="Rajan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
+  <a href="https://t.me/rjn01">
+    <img align="left" alt="Rajan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  </a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjn01" alt="rjn01" /> </p>
 
 <br>
@@ -22,8 +26,8 @@
 
 - 🌱 I’m currently learning *Deep Learning* on **Coursera**
 - 👨‍💻 All of my projects are available at **[PROJECTS](https://github.com/rjn01)**
-- 💬 Ask me about **Python, Machine Learning, Deep Learning**
-- 📫 How to reach me:📬 **rajanpuri.07@gmail.com**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning** 
+- 📫 How to reach me:📬 **[Mail](rajanpuri.07@gmail.com)** 
 - ⚡ You can see my **[Resume](https://rjn01.github.io/)**
 
 <br> 
@@ -41,7 +45,7 @@
 
 <h3>My not so wondeful stats</h3>
 
-<img align="left" width = "70%" height="137px" alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rjn01&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="right" width ="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjn01&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<img align="left" width = "70%" alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rjn01&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjn01&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=rjn01&column=7&theme=onedark" />
 
 <!--
