@@ -13,9 +13,15 @@
     <img align="left" alt="Rajan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjn01" alt="rjn01" /> </p>
+<p align="left"> 
 
-[![followers](https://img.shields.io/github/followers/rjn01?style=social)](https://github.com/rjn01?tab=followers)[![Repos Badge](https://badges.pufler.dev/repos/rjn01)](https://github.com/rjn01?tab=repositories)
+<img src="https://komarev.com/ghpvc/?username=rjn01" alt="rjn01" /> 
+
+<img src="https://img.shields.io/github/followers/rjn01?style=social" alt="Followers" /> 
+
+<img src="https://badges.pufler.dev/repos/rjn01" alt="Repositories" /> 
+
+</p>
 
 <br>
 
@@ -53,14 +59,40 @@
 
 ```
 
-<h3>My not so wondeful stats</h3>
+<!--
 
 <img align="left" alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rjn01&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjn01&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 <img align="centre" src="https://github-profile-trophy.vercel.app/?username=rjn01&column=7&theme=onedark" />
 
-<img height="25" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=RajanPuri&logoColor=blue" />
+-->
+
+<h3>My not so wondeful stats</h3>
+
+<img height="27" src="https://img.shields.io/badge/Rajan%20Puri'%20GitHub%20Stats%20-%20%F0%9F%92%BB-red.svg?&style=for-the-badge&logo=RajanPuri&logoColor=blue%22"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjn01&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&count_private=true&theme=dark&custom_title= Rajan's Github Stats &layout=compact" alt="Rajan Github Stats"/></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjn01&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=rjn01&theme=gruvbox&layout=compact&title_color=00FF00"/>
+  </a>
+</p>
+</details>
+
+<details>
+  <summary>Most used languages :heart: </summary>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjn01&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="Rajan's Most Used Languages" /></p>
+</details> <br>
+<details>
+ <summary>Wakatime Week Stats :octocat: </summary>
+ 
+
+
 <br>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/	87ieaqssgnqllk7fnzp2r0gok)
-
+<br><br>
+![Rajan's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=rjn01&theme=dracula&layout=compact&title_color=FF69B4)
