@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajan</h1>
+<h1 align="center">Hi 👋, I'm Rajan Puri</h1>
 
   <a href="https://twitter.com/RJN_01">
     <img align="left" alt="Rajan Puri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -14,6 +14,8 @@
   </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjn01" alt="rjn01" /> </p>
+
+[![followers](https://img.shields.io/github/followers/rjn01?style=social)](https://github.com/rjn01?tab=followers)[![Repos Badge](https://badges.pufler.dev/repos/rjn01)](https://github.com/rjn01?tab=repositories)
 
 <br>
 
@@ -57,4 +59,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjn01&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 <img align="centre" src="https://github-profile-trophy.vercel.app/?username=rjn01&column=7&theme=onedark" />
 
+<img height="25" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=RajanPuri&logoColor=blue" />
+<br>
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/	87ieaqssgnqllk7fnzp2r0gok)
 
