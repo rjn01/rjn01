@@ -73,26 +73,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjn01&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&count_private=true&theme=dark&custom_title= Rajan's Github Stats &layout=compact" alt="Rajan Github Stats"/></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjn01&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 
-<details align="center">
-  <summary>GitHub Trophies 🏆</summary>
+
+<h3>GitHub Trophies 🏆</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=rjn01&theme=gruvbox&layout=compact&title_color=00FF00"/>
   </a>
 </p>
-</details>
 
-<details>
-  <summary>Most used languages :heart: </summary>
-
+<h3>Most used languages :heart: </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjn01&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="Rajan's Most Used Languages" /></p>
-</details> <br>
-<details>
- <summary>Wakatime Week Stats :octocat: </summary>
+
+ <h3>Wakatime Week Stats :octocat: </h3>
  
-
-
-<br>
-
-<br><br>
 ![Rajan's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=rjn01&theme=dracula&layout=compact&title_color=FF69B4)
