@@ -41,12 +41,11 @@
 <h3>My Github Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5823](https://github.com/jupyter/notebook/pull/5823) in [jupyter/notebook](https://github.com/jupyter/notebook)
-2. 💪 Opened PR [#72](https://github.com/gatsbyjs/gatsby-hi/pull/72) in [gatsbyjs/gatsby-hi](https://github.com/gatsbyjs/gatsby-hi)
-3. 💪 Opened PR [#5931](https://github.com/hasura/graphql-engine/pull/5931) in [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
-4. 💪 Opened PR [#1291](https://github.com/TesseractCoding/NeoAlgo/pull/1291) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-5. 🗣 Commented on [1119](https://github.com/TesseractCoding/NeoAlgo/issues/1119) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-
+1. 💪 Opened PR [#5976](https://github.com/jupyter/notebook/pull/5976) in [jupyter/notebook](https://github.com/jupyter/notebook)
+2. 🗣 Raised an issue [#5975](https://github.com/jupyter/notebook/issues/5975) in in [jupyter/notebook](https://github.com/jupyter/notebook)
+3. 💪 Opened PR [#72](https://github.com/gatsbyjs/gatsby-hi/pull/72) in [gatsbyjs/gatsby-hi](https://github.com/gatsbyjs/gatsby-hi)
+4. 💪 Opened PR [#5931](https://github.com/hasura/graphql-engine/pull/5931) in [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
+5. 💪 Opened PR [#5823](https://github.com/jupyter/notebook/pull/5823) in [jupyter/notebook](https://github.com/jupyter/notebook)
 <!--END_SECTION:activity-->
 
 **I'm a Night 🦉** 
@@ -59,22 +58,13 @@
 
 ```
 
-<!--
-
-<img align="left" alt="Rajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rjn01&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjn01&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
-<img align="centre" src="https://github-profile-trophy.vercel.app/?username=rjn01&column=7&theme=onedark" />
-
--->
-
 <h3>My not so wondeful stats</h3>
 
 <img height="27" src="https://img.shields.io/badge/Rajan%20Puri'%20GitHub%20Stats%20-%20%F0%9F%92%BB-red.svg?&style=for-the-badge&logo=RajanPuri&logoColor=blue%22"/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjn01&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&count_private=true&theme=dark&custom_title= Rajan's Github Stats &layout=compact" alt="Rajan Github Stats"/></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjn01&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
-
 
 <h3>GitHub Trophies 🏆</h3>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=rjn01&theme=gruvbox&layout=compact&title_color=00FF00"/>
@@ -82,8 +72,12 @@
 </p>
 
 <h3>Most used languages :heart: </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjn01&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="Rajan's Most Used Languages" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjn01&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="Rajan's Most Used Languages" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rjn01&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+</p>
 
  <h3>Wakatime Week Stats :octocat: </h3>
- 
-![Rajan's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=rjn01&theme=dracula&layout=compact&title_color=FF69B4)
+ <p>
+ <img align="left" src="https://activity-graph.herokuapp.com/graph?username=rjn01&theme=dracula&layout=compact&title_color=FF69B4" alt="Rajan's Github Activity Graph" />
+ </p>
