@@ -71,13 +71,17 @@
   </a>
 </p>
 
+<br>
+
 <h3>Most used languages :heart: </h3>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjn01&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="Rajan's Most Used Languages" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rjn01&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 </p>
 
- <h3>Wakatime Week Stats :octocat: </h3>
+<br>
+
+<h3>Wakatime Week Stats :octocat: </h3>
  <p>
  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=rjn01&theme=dracula&layout=compact&title_color=FF69B4" alt="Rajan's Github Activity Graph" />
  </p>
